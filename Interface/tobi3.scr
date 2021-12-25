@@ -1,0 +1,15 @@
+breakpoint 0 0 0 0 80
+breakpoint 1 610 0 0 80
+breakpoint 2 620 0 80 0
+breakpoint 3 4000 0 80 0
+breakpoint 4 6250 100 60 0
+breakpoint 5 6500 100 0 0
+breakpoint 6 6750 100 0 0
+breakpoint 7 9000 100 0 0
+breakpoint 8 15000 100 0 0
+dimmer 0 0 620 30000 10000 25000 10000
+dimmer 1 6750 15000 100 1500 100 1100
+hysteresis 50 50
+starter 300 700
+listall
+loaddata

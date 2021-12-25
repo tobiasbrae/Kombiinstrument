@@ -1,0 +1,6 @@
+loadscript script2.scr
+breakpoint 0 100 100 100 20
+dimmer 3 100 200 300 400 500 10
+starter 40 20
+hysteresis 20 15
+listall
